@@ -1,6 +1,8 @@
 ## Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I’m Mertali Tercan, a second-year Computer Science Student @ University of Toronto specializing in Software Engineering. I enjoy building things from the ground up and improving systems along the way. Feel free to connect!
+I’m Mertali Tercan, a second-year Computer Science Student @ University of Toronto specializing in Software Engineering. I enjoy building things from the ground up and improving systems along the way. My favourite TV Show is Lost, much love to John Locke :(
+
+Feel free to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertali-t/)<!-- -->
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mertali.tercan@mail.utoronto.ca)<!-- -->
