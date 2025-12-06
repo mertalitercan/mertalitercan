@@ -2,8 +2,8 @@
 
 I’m Mertali Tercan, a second-year Computer Science student at the University of Toronto specializing in Software Engineering. I enjoy building things from the ground up and improving systems along the way. I’m always open to learning, collaborating, and connecting!
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertali-t/)](https://www.linkedin.com/in/mertali-t/)
-[![Gmail Badge](https://img.shields.io/badge/-mertali.tercan@mail.utoronto.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mertali.tercan@mail.utoronto.ca)](mailto:mertali.tercan@mail.utoronto.ca)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mertali%20Tercan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mertali-t/)
+[![Gmail Badge](https://img.shields.io/badge/-mertali.tercan%40mail.utoronto.ca-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mertali.tercan@mail.utoronto.ca)
 
 ## ⚡ Technologies
 
