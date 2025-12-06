@@ -1,4 +1,4 @@
-## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I’m Mertali Tercan, a second-year Computer Science Student @ University of Toronto specializing in Software Engineering. I enjoy building things from the ground up and improving systems along the way. Feel free to connect!
 
@@ -6,7 +6,7 @@ I’m Mertali Tercan, a second-year Computer Science Student @ University of Tor
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mertali.tercan@mail.utoronto.ca)<!-- -->
 
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +45,7 @@ I’m Mertali Tercan, a second-year Computer Science Student @ University of Tor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔥 GitHub Streak & Contributions
+## 🛠️ GitHub Summary
 <img src="https://streak-stats.demolab.com?user=mertalitercan&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mertalitercan)
