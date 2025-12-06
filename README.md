@@ -44,3 +44,8 @@ I’m Mertali Tercan, a second-year Computer Science Student @ University of Tor
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🔥 GitHub Streak & Contributions
+<img src="https://streak-stats.demolab.com?user=mertalitercan&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mertalitercan)
