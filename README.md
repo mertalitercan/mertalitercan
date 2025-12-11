@@ -44,6 +44,6 @@ Feel free to connect!
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🛠️ GitHub Summary
-<img src="https://streak-stats.demolab.com?user=mertalitercan&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+<img src="https://streak-stats.vercel.app?user=mertalitercan&theme=dark&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mertalitercan)
