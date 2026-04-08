@@ -1,6 +1,6 @@
 ## Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I’m Mertali Tercan, a second-year Computer Science Student @ University of Toronto specializing in Software Engineering. I enjoy building things from the ground up and improving systems along the way. 
+I’m Mertali Tercan, a second-year CS Student @ University of Toronto. I enjoy building things from the ground up and improving systems along the way. 
 
 Feel free to connect with me:
 
