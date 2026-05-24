@@ -1,6 +1,8 @@
 ## Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I’m Mertali Tercan, a second-year CS Student @ University of Toronto and currently interning at Rocscience (Toronto, ON) as an AI Developer. I enjoy building stuff!
+Hey, I'm Mertali. I'm in my second year studying CS @ University of Toronto, and right now I'm interning as an AI Developer at Rocscience (Toronto, ON). 
+
+Well, I just love building stuff!
 
 Feel free to connect with me:
 
