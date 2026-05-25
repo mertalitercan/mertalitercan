@@ -1,5 +1,7 @@
 ## Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+---
+
 Hey, I'm Mertali. I'm in my second year studying CS @ University of Toronto, and right now I'm interning as an AI Developer at Rocscience (Toronto, ON). 
 
 Well, I just love building stuff!
