@@ -21,6 +21,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Crop SVGs to last 4 months
+        run: |
+          # snk renders 52 weeks at 16px each (viewBox: -16 -32 880 192).
+          # Keep rightmost ~17 weeks (~4 months): start x at 544, width 320.
+          for f in dist/*.svg; do
+            sed -i 's/viewBox="-16 -32 880 192"/viewBox="544 -32 320 192"/g' "$f"
+            sed -i 's/width="880"/width="320"/g' "$f"
+          done
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
