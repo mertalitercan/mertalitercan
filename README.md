@@ -2,7 +2,12 @@
 
 Hey, I'm **Mertali**, a second-year CS student at the **University of Toronto**, currently interning as an **AI Developer at [*Rocscience*](https://www.rocscience.com/)** in Toronto.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=520&lines=CS+%40+University+of+Toronto;AI+Developer+Intern+%40+Rocscience;I+just+love+building+stuff." alt="Typing SVG"/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=520&height=40&vCenter=true&lines=CS+%40+University+of+Toronto;AI+Developer+Intern+%40+Rocscience;I+just+love+building+stuff." alt="Typing SVG"/>
+
+> [!NOTE]
+> 🔭 **Currently** learning more about building AI agents and [MCP](https://modelcontextprotocol.io/) (Model Context Protocol).
 
 Let's connect:
 
