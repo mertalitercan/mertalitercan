@@ -1,6 +1,6 @@
 ### Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA50000,50:FFA500,100:FFA50000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FFA500,100:FF6B35&height=2&section=header" width="100%"/>
 
 Hey, I'm **Mertali**, a second-year CS student at the **University of Toronto**, currently interning as an **AI Developer at [*Rocscience*](https://www.rocscience.com/)** in Toronto.
 
@@ -16,7 +16,7 @@ Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertali-t/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mertali.tercan@mail.utoronto.ca)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA50000,50:FFA500,100:FFA50000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FFA500,100:FF6B35&height=2&section=header" width="100%"/>
 
 
 <p align="center">
