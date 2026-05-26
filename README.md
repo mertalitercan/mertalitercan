@@ -9,7 +9,7 @@ Hey, I'm **Mertali**, a second-year CS student at the **University of Toronto**,
 </p>
 
 > [!NOTE]
-> 🔭 **Currently** learning more about building AI agents and [MCP](https://modelcontextprotocol.io/) (Model Context Protocol).
+> 🔭 **Currently** learning more about building AI agents, [MCP](https://modelcontextprotocol.io/) (Model Context Protocol), and system design!
 
 Let's connect:
 
