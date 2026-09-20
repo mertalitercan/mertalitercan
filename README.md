@@ -1,11 +1,11 @@
 ### Hello, world! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FFA500,100:FF6B35&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FFA500,100:005DAA&height=2&section=header" width="100%"/>
 
 Hey, I'm **Mertali**, a third-year CS student at the **University of Toronto**, currently interning as a **Software Developer @ [*RBC*](https://www.rbc.com/)** in Toronto.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=520&height=40&vCenter=true&center=true&lines=CS+%40+University+of+Toronto;AI+Developer+Intern+%40+Rocscience;I+just+love+building+stuff." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=005DAA&width=520&height=40&vCenter=true&center=true&lines=CS+%40+University+of+Toronto;AI+Developer+Intern+%40+Rocscience;I+just+love+building+stuff." alt="Typing SVG"/>
 </p>
 
 > [!NOTE]
