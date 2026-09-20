@@ -5,7 +5,7 @@
 Hey, I'm **Mertali**, a third-year CS student @ **University of Toronto**, currently interning as a **Software Developer @ [*RBC*](https://www.rbc.com/)** in Toronto.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=005DAA&width=520&height=40&vCenter=true&center=true&lines=CS+%40+University+of+Toronto;AI+Developer+Intern+%40+Rocscience;I+just+love+building+stuff." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=005DAA&width=520&height=40&vCenter=true&center=true&lines=CS+%40+University+of+Toronto;Software+Developer+Intern+%40+RBC;I+just+love+building+stuff." alt="Typing SVG"/>
 </p>
 
 > [!NOTE]
